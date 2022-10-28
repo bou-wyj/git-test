@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("hello happy new year and day Git~");
         System.out.println("hot-fix test~");
         System.out.println("master test~");
+        System.out.println("push test~");
     }
 }
