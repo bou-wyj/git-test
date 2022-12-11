@@ -7,4 +7,7 @@ package com.wyj.bou;
  * @create: 2022-12-11 10:12
  **/
 public class GitTest02 {
+    public static void main(String[] args) {
+        System.out.println("为什么head会消失。。。。。。");
+    }
 }
